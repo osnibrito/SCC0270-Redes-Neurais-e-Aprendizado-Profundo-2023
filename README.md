@@ -1,6 +1,6 @@
 # SCC0270-Redes-Neurais-e-Aprendizado-Profundo
 
-Projetos relacionados as disciplina de Redes Neurais e Aprendizado Profundo
+Projetos relacionados a disciplina de Redes Neurais e Aprendizado Profundo
 Descrição de cada projeto está em um PDF no seu respectivo diretorio
 
 ## Download de dataset's:
